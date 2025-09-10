@@ -1,0 +1,5 @@
+C:\Users\ThinkPad\Documents\DATN\GraphVelocityAndPositionMotor\TestUDPImageStreaming\obj\Debug\TestUDPImageStreaming.csproj.AssemblyReference.cache
+C:\Users\ThinkPad\Documents\DATN\GraphVelocityAndPositionMotor\TestUDPImageStreaming\obj\Debug\TestUDPImageStreaming.Form1.resources
+C:\Users\ThinkPad\Documents\DATN\GraphVelocityAndPositionMotor\TestUDPImageStreaming\obj\Debug\TestUDPImageStreaming.Properties.Resources.resources
+C:\Users\ThinkPad\Documents\DATN\GraphVelocityAndPositionMotor\TestUDPImageStreaming\obj\Debug\TestUDPImageStreaming.csproj.GenerateResource.cache
+C:\Users\ThinkPad\Documents\DATN\GraphVelocityAndPositionMotor\TestUDPImageStreaming\obj\Debug\TestUDPImageStreaming.csproj.CoreCompileInputs.cache

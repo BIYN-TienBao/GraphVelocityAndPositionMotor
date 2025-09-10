@@ -1,0 +1,17 @@
+C:\Users\ThinkPad\Documents\DATN\GraphVelocityAndPositionMotor\TestUDPStreaming\bin\Debug\TestUDPStreaming.exe.config
+C:\Users\ThinkPad\Documents\DATN\GraphVelocityAndPositionMotor\TestUDPStreaming\bin\Debug\TestUDPStreaming.exe
+C:\Users\ThinkPad\Documents\DATN\GraphVelocityAndPositionMotor\TestUDPStreaming\bin\Debug\TestUDPStreaming.pdb
+C:\Users\ThinkPad\Documents\DATN\GraphVelocityAndPositionMotor\TestUDPStreaming\bin\Debug\AForge.dll
+C:\Users\ThinkPad\Documents\DATN\GraphVelocityAndPositionMotor\TestUDPStreaming\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\ThinkPad\Documents\DATN\GraphVelocityAndPositionMotor\TestUDPStreaming\bin\Debug\AForge.Video.dll
+C:\Users\ThinkPad\Documents\DATN\GraphVelocityAndPositionMotor\TestUDPStreaming\bin\Debug\AForge.xml
+C:\Users\ThinkPad\Documents\DATN\GraphVelocityAndPositionMotor\TestUDPStreaming\bin\Debug\AForge.Video.xml
+C:\Users\ThinkPad\Documents\DATN\GraphVelocityAndPositionMotor\TestUDPStreaming\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\ThinkPad\Documents\DATN\GraphVelocityAndPositionMotor\TestUDPStreaming\obj\Debug\TestUDPStreaming.csproj.AssemblyReference.cache
+C:\Users\ThinkPad\Documents\DATN\GraphVelocityAndPositionMotor\TestUDPStreaming\obj\Debug\TestUDPStreaming.Properties.Resources.resources
+C:\Users\ThinkPad\Documents\DATN\GraphVelocityAndPositionMotor\TestUDPStreaming\obj\Debug\TestUDPStreaming.TestUDPStreaming.resources
+C:\Users\ThinkPad\Documents\DATN\GraphVelocityAndPositionMotor\TestUDPStreaming\obj\Debug\TestUDPStreaming.csproj.GenerateResource.cache
+C:\Users\ThinkPad\Documents\DATN\GraphVelocityAndPositionMotor\TestUDPStreaming\obj\Debug\TestUDPStreaming.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad\Documents\DATN\GraphVelocityAndPositionMotor\TestUDPStreaming\obj\Debug\TestUDPS.4E63BED9.Up2Date
+C:\Users\ThinkPad\Documents\DATN\GraphVelocityAndPositionMotor\TestUDPStreaming\obj\Debug\TestUDPStreaming.exe
+C:\Users\ThinkPad\Documents\DATN\GraphVelocityAndPositionMotor\TestUDPStreaming\obj\Debug\TestUDPStreaming.pdb
